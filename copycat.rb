@@ -134,7 +134,4 @@ p lena.punch
 p lena.smite
 p lena.cleave
 
-# to get the answers in the example: Punch, Minimum/maximum = min/max_dmg * 1.2 (because of the 20 STR 
-# - 1% bonus to attack for every 1 STR. Using base damage because the punch is 100% dmg and aps.
-# ) DPS: for the axe, it's punch_damage_min * 1.2 (because axes attack at 20% faster than maces, which attack
-# at 1), + punch_damage_max * 1.2 / 2. 
+
